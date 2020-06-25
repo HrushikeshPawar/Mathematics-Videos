@@ -85,7 +85,6 @@ class First_Scene_What(Scene):
         self.play(ReplacementTransform(sym, Sym))
         self.wait()
 
-
         what = TextMobject(
                             "Symmetry",
                             "  -  ",
