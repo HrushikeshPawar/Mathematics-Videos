@@ -1,6 +1,5 @@
 from manimlib.imports import *
 
-
 class Image(Scene):
     def construct(self):
         self.wait()
